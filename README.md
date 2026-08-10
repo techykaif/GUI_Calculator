@@ -1,4 +1,13 @@
-# GUI_Calculator
+# GUI Calculator
 
-## this is a simple calculator with solving upto one operation at a time 
-## it doesn't have advance operations in it however it contains basic operations
+A simple desktop calculator built with Java and a graphical user interface.
+
+## Tech Stack
+
+- Java
+- GUI
+
+## Overview
+
+This project demonstrates basic arithmetic operations and GUI-based application development using Java.
+
